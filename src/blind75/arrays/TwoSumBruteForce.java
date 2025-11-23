@@ -3,7 +3,7 @@ package blind75.arrays;
 import java.util.Arrays;
 
 /**
- * Blind 75 - Two Sum1
+ * Blind 75 - Two Sum
  *
  * Problem:
  *  Verilen int dizisinde, toplamları target olan iki farklı indexi bul.
